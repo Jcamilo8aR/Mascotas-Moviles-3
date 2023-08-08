@@ -8,9 +8,9 @@ let  productos = [
     },
     {
         "id": 2,
-        "nombre": "Alimento para perro Proplan (3,5kg)",
+        "nombre": "Alimento Para Perro - Hills Canino K/D Lata 5.5 Oz",
         "precio": 181600,
-        "imagen": "https://kanu.vtexassets.com/arquivos/ids/166796-800-auto?v=638243455124630000&width=800&height=auto&aspect=true",
+        "imagen": "https://kanu.vtexassets.com/arquivos/ids/166826-1600-auto?v=638260912838670000&width=1600&height=auto&aspect=true",
         "disponible": "si"
     },
     {
